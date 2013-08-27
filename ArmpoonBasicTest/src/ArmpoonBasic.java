@@ -95,6 +95,7 @@ public class ArmpoonBasic {
 				 
 				switch ( key ){
 				case KeyEvent.VK_W:
+					//Set scorpion to move up...
 				case KeyEvent.VK_UP:
 					armpoon.setMovingUp( false );
 					break;

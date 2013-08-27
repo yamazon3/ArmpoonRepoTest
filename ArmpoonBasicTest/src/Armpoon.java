@@ -1,5 +1,5 @@
 //MIKE YAMSEK
-//This program creates armpoon and allows for his movements
+//This program creates armpoon and allows for his movements...
 
 import java.awt.Color;
 import java.awt.Graphics2D;
