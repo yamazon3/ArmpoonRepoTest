@@ -7,6 +7,7 @@ import java.awt.Rectangle;
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;
+import java.awt.geom.Rectangle2D;
 import java.util.Random;
 
 public class Armpoon {
@@ -65,7 +66,7 @@ public class Armpoon {
 	
 	public void draw(Graphics2D g2){
 		//draw armpoon here
-		Ellipse2D.Double ball = new Ellipse2D.Double(x_loc,y_loc,48,48);
+		Rectangle2D.Double ball = new Rectangle2D.Double(x_loc,y_loc,48,48);
 		g2.setColor(Color.green);
 		g2.draw(ball);
 		g2.fill(ball);
