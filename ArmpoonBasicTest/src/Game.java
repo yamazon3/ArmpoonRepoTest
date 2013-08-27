@@ -1,5 +1,5 @@
 //MIKE YAMSEK
-//will draw the Armpoon game out
+//will draw the Armpoon game out...
 
 
 import java.awt.Color;

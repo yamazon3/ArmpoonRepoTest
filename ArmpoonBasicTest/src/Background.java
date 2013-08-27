@@ -1,5 +1,5 @@
 //MIKE YAMSEK
-//this class generates a background for Armpoon basic
+//this class generates a background for Armpoon basic...
 
 import java.awt.Color;
 import java.awt.Graphics;
