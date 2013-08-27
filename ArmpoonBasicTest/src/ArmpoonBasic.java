@@ -97,10 +97,13 @@ public class ArmpoonBasic {
 				case KeyEvent.VK_W:
 					//Set scorpion to move up...
 				case KeyEvent.VK_UP:
+					//Set Armpoon to move up...
 					armpoon.setMovingUp( false );
 					break;
 				case KeyEvent.VK_A:
+					//Set scorpion to move left...
 				case KeyEvent.VK_LEFT:
+					//Set Armpoon to move left...
 					armpoon.setMovingLeft( false );
 					break;
 				case KeyEvent.VK_S:
